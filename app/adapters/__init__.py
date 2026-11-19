@@ -1,0 +1,1 @@
+"""ShopWise product source adapters."""
